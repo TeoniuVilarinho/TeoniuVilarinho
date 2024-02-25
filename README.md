@@ -1,5 +1,5 @@
-<h1 aling="center"> Bem-vindo(a) ao meu perfil </h1>
-<h2 aling="center"> Meu nome é André Vilarinho </h2>
+<h1 align="center"> Bem-vindo(a) ao meu perfil </h1>
+<h2 align="center"> Meu nome é André Vilarinho </h2>
 
  <div>
    <a href="https://github.com/TeoniuVilarinho">
