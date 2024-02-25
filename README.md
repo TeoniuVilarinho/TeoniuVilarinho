@@ -1,7 +1,7 @@
 <h1 align="center"> Bem-vindo(a) ao meu perfil </h1>
 <h2 align="center"> Meu nome é André Vilarinho </h2>
 
- <div>
+ <div align="center">
    <a href="https://github.com/TeoniuVilarinho">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeoniuVilarinho&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeoniuVilarinho&layout=compact&langs_count=6&theme=neon"/>
